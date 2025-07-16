@@ -6,13 +6,13 @@
 - Includes all the pointers
 
 
-## 📥 Download
+## Download
 
 1. Go to the Release section.
 2. Download the latest `.zip` file.
 3. Extract it to a folder.
 
-## 🖱️ How to Install
+## How to Install
 
 1. Open the extracted folders and choose which one you want.
 2. Right-click on `install.inf` and select **Install**.
