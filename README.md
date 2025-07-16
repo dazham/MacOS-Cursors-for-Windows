@@ -3,7 +3,9 @@
 
 # MacOS Cursors for Windows
 - Includes all the macOS cursors from version Sierra and newer, including the latest Tahoe (liquid glass)
+- This Cursors pack support 32x32, 48x48 and 64x64 pixels (100%, 125%, 150%, and 175% dpi)
 
+---
 
 ## Download
 
