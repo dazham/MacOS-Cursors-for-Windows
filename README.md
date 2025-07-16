@@ -1,9 +1,8 @@
 ![macOS Cursors Preview](/images/preview.png)
 
 
-# macOS Cursors for Windows
-- Includes tail less versions
-- Includes all the pointers
+# MacOS Cursors for Windows
+- Includes all the macOS cursors from version Sierra and newer, including the latest Tahoe (liquid glass)
 
 
 ## Download
