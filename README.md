@@ -22,4 +22,4 @@
 5. Click **Apply**.
 
 
-
+![macOS Cursors Preview](/preview.png)
