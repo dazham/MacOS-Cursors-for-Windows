@@ -1,4 +1,4 @@
-![macOS Cursors Preview](/preview.png)
+![macOS Cursors Preview](/previewthumbnail.png)
 ---
 
 # MacOS Cursors for Windows
@@ -22,4 +22,4 @@
 5. Click **Apply**.
 
 
-![macOS Cursors Preview](/preview.png)
+
