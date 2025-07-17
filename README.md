@@ -9,7 +9,7 @@
 
 ## Download
 
-1. Go to the Release section.
+1. Go to the [Release](https://github.com/dazham/MacOS-Cursors-for-Windows/releases/tag/v1.0.0) section.
 2. Download the latest `.zip` file.
 3. Extract it to a folder.
 
