@@ -1,4 +1,4 @@
-![macOS Cursors Preview](/preview.png)
+![macOS Cursors Preview](/prevew.png)
 ---
 
 # MacOS Cursors for Windows
