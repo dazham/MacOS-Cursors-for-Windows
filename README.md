@@ -1,9 +1,9 @@
 ![macOS Cursors Preview](/preview.png)
 ---
 
-# MacOS Cursors for Windows
-- Includes all the macOS cursors from version Sierra and newer, including the latest Tahoe (liquid glass)
-- This Cursors pack support 32x32, 48x48 and 64x64 pixels (100%, 125%, 150%, and 175% dpi)
+# MacOS Cursors for Windows.
+- Includes all the macOS cursors from version Sierra and newer, including the latest Tahoe (liquid glass).
+- This Cursors pack support 32x32, 48x48 and 64x64 pixels (100%, 125%, 150%, and 175% dpi).
 
 
 
@@ -18,7 +18,7 @@
 1. Open the extracted folders and choose which one you want.
 2. Right-click on `install.inf` and select **Install**.
 3. Open **Control Panel → Mouse → Pointers**.
-4. From the scheme dropdown, select **macOS**.
+4. From the scheme dropdown, select any of the new **macOS** cursors.
 5. Click **Apply**.
 
 
