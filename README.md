@@ -21,6 +21,8 @@
 5. Click **Apply**.
 
 ## Credits
+--
+
 **Jimmyxd2 / Historical-Dirt-294** - [reddit](https://www.reddit.com/user/Historical-Dirt-294/) | [deviant art](https://www.deviantart.com/jimmyxd2) | [github](https://github.com/jimmyxd2).
 
 1.  [Tahoe cursor and newer & tail less tahoe](https://www.reddit.com/r/desktops/comments/1lepui6/i_created_a_macos_tahoe_pack_of_cursors_for/)
