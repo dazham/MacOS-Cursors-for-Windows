@@ -31,3 +31,8 @@
 **In-dolly** - [deivant art](https://www.deviantart.com/in-dolly)
 
 3. [El Capitan and before](https://www.deviantart.com/in-dolly/art/Updated-ElCapitan-cursors-593804414)
+
+
+## Extras
+Check this repository for a higher quality of cursors with both linux and windows support
+https://github.com/ful1e5/apple_cursor/
