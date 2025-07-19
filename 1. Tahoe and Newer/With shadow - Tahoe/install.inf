@@ -1,0 +1,56 @@
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%Cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%Unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%pin%,%10%\%CUR_DIR%\%person%"
+
+; -- Common Information
+
+[Scheme.Cur]
+"arrowS.cur"
+"helpS.cur"
+"waitS.ani"
+"busyS.ani"
+"crossS.cur"
+"beamS.cur"
+"penS.cur"
+"noS.cur"
+"VsizeS.cur"
+"HsizeS.cur"
+"D1sizeS.cur"
+"D2sizeS.cur"
+"moveS.cur"
+"upS.cur"
+"linkS.cur"
+"locationS.cur"
+"personS.cur"
+
+[Strings]
+CUR_DIR         = "MacOS Tahoe and newer (With Shadow)"
+SCHEME_NAME     = "MacOS Tahoe and newer (With Shadow)"
+pointer		= "arrowS.cur"
+help		= "helpS.cur"
+work		= "waitS.ani"
+busy		= "busyS.ani"
+cross		= "crossS.cur"
+text		= "beamS.cur"
+hand		= "penS.cur"
+unavailiable	= "noS.cur"
+vert		= "HsizeS.cur"
+horz		= "VsizeS.cur"
+dgn1		= "D2sizeS.cur"
+dgn2		= "D1sizeS.cur"
+move		= "moveS.cur"
+alternate	= "upS.cur"
+link		= "linkS.cur"
+pin             = "locationS.cur"
+person          = "personS.cur"
+
