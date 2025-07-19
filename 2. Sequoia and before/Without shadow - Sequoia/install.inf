@@ -1,0 +1,55 @@
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%Cross%,%10%\%CUR_DIR%\%Text%,%10%\%CUR_DIR%\%Hand%,%10%\%CUR_DIR%\%Unavailiable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%pin%,%10%\%CUR_DIR%\%person%"
+
+; -- Common Information
+
+[Scheme.Cur]
+"arrowNS.cur"
+"helpNS.cur"
+"waitNS.ani"
+"busyNS.ani"
+"crossNS.cur"
+"beamNS.cur"
+"penNS.cur"
+"noNS.cur"
+"VsizeNS.cur"
+"HsizeNS.cur"
+"D1sizeNS.cur"
+"D2sizeNS.cur"
+"moveNS.cur"
+"upNS.cur"
+"linkNS.cur"
+"locationNS.cur"
+"personNS.cur"
+
+[Strings]
+CUR_DIR         = "MacOS Sequoia and before (no shadow)"
+SCHEME_NAME     = "MacOS Sequoia and before (no shadow)"
+pointer		= "arrowNS.cur"
+help		= "helpNS.cur"
+work		= "waitNS.ani"
+busy		= "busyNS.ani"
+cross		= "crossNS.cur"
+text		= "beamNS.cur"
+hand		= "penNS.cur"
+unavailiable	= "noNS.cur"
+vert		= "HsizeNS.cur"
+horz		= "VsizeNS.cur"
+dgn1		= "D2sizeNS.cur"
+dgn2		= "D1sizeNS.cur"
+move		= "moveNS.cur"
+alternate	= "upNS.cur"
+link		= "linkNS.cur"
+pin             = "locationNS.cur"
+person          = "personNS.cur"
