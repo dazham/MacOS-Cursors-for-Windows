@@ -23,7 +23,7 @@
 ## Credits
 --
 
-**Jimmyxd2 / Historical-Dirt-294** - [reddit](https://www.reddit.com/user/Historical-Dirt-294/) | [deviant art](https://www.deviantart.com/jimmyxd2) | [github](https://github.com/jimmyxd2).
+**Jimmyxd2 / Historical-Dirt-294** - [reddit](https://www.reddit.com/user/Historical-Dirt-294/) | [deviant art](https://www.deviantart.com/jimmyxd2) | [github](https://github.com/jimmyxd2) | [kofi](https://ko-fi.com/jimmyxd2/shop)
 
 1.  [Tahoe cursor and newer & tail less tahoe](https://www.reddit.com/r/desktops/comments/1lepui6/i_created_a_macos_tahoe_pack_of_cursors_for/)
 2.  [Sequoia and before](https://www.reddit.com/r/desktops/comments/1fcu054/i_created_a_macos_pack_of_cursors_for_windows_10/)
