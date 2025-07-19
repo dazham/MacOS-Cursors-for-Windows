@@ -27,6 +27,7 @@ From Jimmyxd2 / Historical-Dirt-294
 
 This person is on [reddit](https://www.reddit.com/user/Historical-Dirt-294/) and [deviant art](https://www.deviantart.com/jimmyxd2) and [github](https://github.com/jimmyxd2).
 
+--
 From in-dolly
 3. [El Capitan and before](https://www.deviantart.com/in-dolly/art/Updated-ElCapitan-cursors-593804414)
 
