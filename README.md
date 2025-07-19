@@ -38,4 +38,4 @@ Check this repository for a higher quality of cursors with both linux and window
 
 https://github.com/ful1e5/apple_cursor/
 
----
+
